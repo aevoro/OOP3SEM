@@ -1,0 +1,14 @@
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\LR2.AssemblyInfoInputs.cache
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\LR2.AssemblyInfo.cs
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\LR2.csproj.CoreCompileInputs.cache
+D:\уник\ооп\LR2\LR2\LR2\bin\Debug\net9.0\LR2.exe
+D:\уник\ооп\LR2\LR2\LR2\bin\Debug\net9.0\LR2.deps.json
+D:\уник\ооп\LR2\LR2\LR2\bin\Debug\net9.0\LR2.runtimeconfig.json
+D:\уник\ооп\LR2\LR2\LR2\bin\Debug\net9.0\LR2.dll
+D:\уник\ооп\LR2\LR2\LR2\bin\Debug\net9.0\LR2.pdb
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\LR2.dll
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\refint\LR2.dll
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\LR2.pdb
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\LR2.genruntimeconfig.cache
+D:\уник\ооп\LR2\LR2\LR2\obj\Debug\net9.0\ref\LR2.dll
