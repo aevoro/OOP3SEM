@@ -1,0 +1,14 @@
+D:\уник\ооп\LR3\LR3\LR3\bin\Debug\net9.0\LR3.exe
+D:\уник\ооп\LR3\LR3\LR3\bin\Debug\net9.0\LR3.deps.json
+D:\уник\ооп\LR3\LR3\LR3\bin\Debug\net9.0\LR3.runtimeconfig.json
+D:\уник\ооп\LR3\LR3\LR3\bin\Debug\net9.0\LR3.dll
+D:\уник\ооп\LR3\LR3\LR3\bin\Debug\net9.0\LR3.pdb
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\LR3.AssemblyInfoInputs.cache
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\LR3.AssemblyInfo.cs
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\LR3.csproj.CoreCompileInputs.cache
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\LR3.dll
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\refint\LR3.dll
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\LR3.pdb
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\LR3.genruntimeconfig.cache
+D:\уник\ооп\LR3\LR3\LR3\obj\Debug\net9.0\ref\LR3.dll
