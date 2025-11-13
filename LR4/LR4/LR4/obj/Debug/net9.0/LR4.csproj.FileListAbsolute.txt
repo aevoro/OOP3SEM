@@ -1,0 +1,14 @@
+D:\уник\ооп\LR4\LR4\LR4\bin\Debug\net9.0\LR4.exe
+D:\уник\ооп\LR4\LR4\LR4\bin\Debug\net9.0\LR4.deps.json
+D:\уник\ооп\LR4\LR4\LR4\bin\Debug\net9.0\LR4.runtimeconfig.json
+D:\уник\ооп\LR4\LR4\LR4\bin\Debug\net9.0\LR4.dll
+D:\уник\ооп\LR4\LR4\LR4\bin\Debug\net9.0\LR4.pdb
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\LR4.AssemblyInfoInputs.cache
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\LR4.AssemblyInfo.cs
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\LR4.csproj.CoreCompileInputs.cache
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\LR4.dll
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\refint\LR4.dll
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\LR4.pdb
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\LR4.genruntimeconfig.cache
+D:\уник\ооп\LR4\LR4\LR4\obj\Debug\net9.0\ref\LR4.dll
